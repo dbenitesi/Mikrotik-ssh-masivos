@@ -27,11 +27,13 @@ except IOError:
     quit()
 
 nlines = 0
-mt_username = "instalador"
+# Aca se pone el usuario 
+mt_username = "admin"
 #ssh_key = paramiko.RSAKey.from_private_key_file("key.ppk")
 # Using ssh keys is strongly advised!
 # If you are unable to setup that method of connecting to your devices, you have the option of the clear text login as well.
-mt_password = "nine2022"
+# Aca el pass
+mt_password = "admin"
 timeout = 10
 
 for line in f:
