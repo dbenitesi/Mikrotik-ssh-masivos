@@ -1,0 +1,180 @@
+
+Connecting to 1. host: 10.12.0.9
+Connection timeout.
+
+Connecting to 2. host: 10.12.0.6
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 3. host: 10.12.0.4
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 4. host: 10.12.0.3
+Connection timeout.
+
+Connecting to 5. host: 10.12.0.2
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 6. host: 10.12.0.30
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 7. host: 10.12.0.18
+Error connecting to the device: [Errno None] Unable to connect to port 22 on 10.12.0.18.
+
+Connecting to 8. host: 10.12.0.11
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 9. host: 10.12.0.19
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 10. host: 10.12.0.29
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 11. host: 10.12.0.25
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 12. host: 10.12.0.7
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 13. host: 10.12.0.13
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 14. host: 10.12.0.11
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 15. host: 10.12.0.10
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 16. host: 10.12.0.23
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 17. host: 10.12.0.16
+Successfully connected to the host. Executing commands:
+Executing command: /interface pr
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1  R  wlan1                               wlan             1500  1600
+ 2  R  pppoe-out1                          pppoe-out        1480
+
+
+Commands executed successfully.
+
+Connecting to 18. host: 
+Error connecting to the device: [Errno -2] Name or service not known.
